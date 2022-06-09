@@ -1,1 +1,1 @@
-# Awzo
+#CompSci Project
